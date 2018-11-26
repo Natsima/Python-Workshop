@@ -1,1 +1,2 @@
-print"Test"
+answer  = input("Input : ");
+print "Output :" ,answer 
